@@ -1,5 +1,4 @@
-# aws-project-01-static-website-hosting
-AWS Static Website Hosting using S3, CloudFront, Route53 and ACM
+# AWS Static Website Hosting using S3, CloudFront, Route53 and ACM
 
 ## Project Overview
 
@@ -66,6 +65,7 @@ Key configurations:
 * Bucket name matched domain name
 * Static website hosting enabled
 * Index document configured
+* Error document configuration (optional)
 
 ---
 
@@ -76,6 +76,7 @@ Uploaded:
 * index.html
 * style.css
 * script.js
+* error.html
 
 Verified website accessibility through the S3 endpoint.
 
