@@ -17,6 +17,9 @@ User → Route53 → CloudFront → S3 Bucket
 ## Architecture Diagram
 ![image alt](https://github.com/gaur-ruchi/aws-project-01-static-website-hosting/blob/main/architecture-diagram.png?raw=true)
 
+## Live Demo
+https://gaur-ruchi.github.io/aws-project-01-static-website-hosting/
+
 ### Components
 
 #### Amazon S3
