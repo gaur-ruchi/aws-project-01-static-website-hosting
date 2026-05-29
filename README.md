@@ -15,6 +15,9 @@ The website is accessible through a custom domain over HTTPS and benefits from l
 
 User → Route53 → CloudFront → S3 Bucket
 
+## Architecture Diagram
+![image alt](https://github.com/gaur-ruchi/aws-project-01-static-website-hosting/blob/main/architecture-diagram.png?raw=true)
+
 ### Components
 
 #### Amazon S3
